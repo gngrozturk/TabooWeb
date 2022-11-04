@@ -427,4 +427,112 @@ export const data = [
     target: "GÖÇMEN",
     taboos: ["Mülteci", "Vize", "Soğuk", "Kuş", "Sıcak"],
   },
+  {
+    target: "ÇUVAL",
+    taboos: ["Torba", "Doldurmak", "Yem", "Un", "Koymak"],
+  },
+  {
+    target: "TALİMAT",
+    taboos: ["Emir", "Vermek", "Fatura", "Banka", "Otomatik Ödeme"],
+  },
+  {
+    target: "SİFTAH",
+    taboos: ["İlk", "Gün", "Satmak", "Mal", "Alışveriş"],
+  },
+  {
+    target: "FLAMA",
+    taboos: ["Bayrak", "Üçgen", "Okul", "İzci", "Tören"],
+  },
+  {
+    target: "MÜSVEDDE",
+    taboos: ["Karalama", "Not Almak", "Yazmak", "Kâğıt", "Temiz"],
+  },
+  {
+    target: "AJANDA",
+    taboos: ["Defter", "İş", "Yazmak", "Gün", "Toplantı"],
+  },
+  {
+    target: "İŞTAH",
+    taboos: ["Acıkmak", "Kesilmek", "Açmak", "Lezzet", "Yemek"],
+  },
+  {
+    target: "İHALE",
+    taboos: ["Belediye", "Girmek", "Açmak", "Yolsuzluk", "Kazanmak"],
+  },
+  {
+    target: "UYANIK",
+    taboos: ["Akıllı", "Zeki", "Açıkgöz", "Kurnaz", "Saf"],
+  },
+  {
+    target: "PASAKLI",
+    taboos: ["Temiz", "Titiz", "Kirli", "Düzenli", "Karışık"],
+  },
+  {
+    target: "HİLE",
+    taboos: ["Aldatmak", "Kandırmak", "Oyun", "Yapmak", "Kumar"],
+  },
+  {
+    target: "HALAY",
+    taboos: ["Düğün", "Çekmek", "Oynamak", "Mendil", "Kol"],
+  },
+  {
+    target: "FİRAR",
+    taboos: ["Kaçak", "Hapis", "Asker", "Mahkûm", "Etmek"],
+  },
+  {
+    target: "PLAKET",
+    taboos: ["Ödül", "Tören", "Başarı", "Vermek", "Teşekkür"],
+  },
+  {
+    target: "FULAR",
+    taboos: ["Eşarp", "Bağlamak", "Baş", "Boyun", "Kadın"],
+  },
+  {
+    target: "KAOS",
+    taboos: ["Karışıklık", "Ortam", "Kargaşa", "Düzen", "Yaratmak"],
+  },
+  {
+    target: "SIRIK",
+    taboos: ["Uzun", "Atlamak", "Boy", "Atletizm", "Fasulye"],
+  },
+  {
+    target: "STAJ",
+    taboos: ["Öğrenci", "Çalışmak", "Üniversite", "Tecrübe", "İş"],
+  },
+  {
+    target: "ARIZA",
+    taboos: ["Bozuk", "Tamir", "Çalışmak", "Telefon", "Elektrik"],
+  },
+  {
+    target: "TECRÜBE",
+    taboos: ["İş", "Kazanmak", "Çalışmak", "Deneyim", "Yıl"],
+  },
+  {
+    target: "MACUN",
+    taboos: ["Cam", "Pencere", "Tutmak", "Kenar", "Mesir"],
+  },
+  {
+    target: "SUİSTİMAL",
+    taboos: ["İyi", "Niyet", "Kullanmak", "Faydalanmak", "Kötü"],
+  },
+  {
+    target: "SISKA",
+    taboos: ["Zayıf", "İnce", "Çelimsiz", "Şişman", "Hasta"],
+  },
+  {
+    target: "ESİR",
+    taboos: ["Mahkûm", "Savaş", "Düşmek", "Tutsak", "Kamp"],
+  },
+  {
+    target: "MIZIKÇI",
+    taboos: ["Çocuk", "Küsmek", "Darılmak", "Bozmak", "Oyun"],
+  },
+  {
+    target: "YADİGAR",
+    taboos: ["Aile", "Hatıra", "Değerli", "Miras", "Bırakmak"],
+  },
+  {
+    target: "Nadir",
+    taboos: ["Zor", "Az", "Bulmak", "Sık", "Çok"],
+  },
 ];

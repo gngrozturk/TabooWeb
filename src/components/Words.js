@@ -8,9 +8,7 @@ function Words() {
   const { currentScore, pass } = useScore();
 
   useEffect(() => {
-    if (index <= words.length) {
-      setIndex(index + 1);
-    }
+    setIndex(Math.floor(Math.random() * words.length));
   }, [currentScore, pass]);
 
   return (
