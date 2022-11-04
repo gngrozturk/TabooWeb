@@ -619,4 +619,100 @@ export const data = [
     target: "TABURE",
     taboos: ["Oturmak", "Sandalye", "Koltuk", "Yemekhane", "Sırt"],
   },
+  {
+    target: "EREZYON",
+    taboos: ["Toprak", "Kayma", "Ağaç", "Heyelan", "TEMA"],
+  },
+  {
+    target: "ÇAMAŞIR",
+    taboos: ["Kirli", "Yıkamak", "Makine", "Deterjan", "Giymek"],
+  },
+  {
+    target: "NUMUNE",
+    taboos: ["Örnek", "Vermek", "Tahlil", "Yemek", "Küçük"],
+  },
+  {
+    target: "VİRAN",
+    taboos: ["Eski", "Yıkık", "Harap", "Ev", "Köhne"],
+  },
+  {
+    target: "KASVET",
+    taboos: ["Sıkıntı", "Gam", "Karanlık", "Aydınlık", "Neşeli"],
+  },
+  {
+    target: "MİÇO",
+    taboos: ["Tayfa", "Gemi", "Kaptan", "Deniz", "Yardımcı"],
+  },
+  {
+    target: "ESKİMO",
+    taboos: ["Kutup", "Buzul", "Kar", "Soğuk", "Balık"],
+  },
+  {
+    target: "HAMAK",
+    taboos: ["Yatmak", "Ağaç", "Sallanmak", "Kurmak", "Piknik"],
+  },
+  {
+    target: "GADDAR",
+    taboos: ["Acımasız", "Sert", "Katı", "Merhamet", "İnsaf"],
+  },
+  {
+    target: "ÇADIR",
+    taboos: ["Kamp", "Uyku Tulumu", "Kurmak", "Doğa", "Tatil"],
+  },
+  {
+    target: "NADAS",
+    taboos: ["Tarla", "Ekmek", "Bırakmak", "Dinlendirmek", "Çiftçi"],
+  },
+  {
+    target: "HASIR",
+    taboos: ["Sepet", "Şapka", "Plaj", "Deniz", "Sermek"],
+  },
+  {
+    target: "BUKELAMUN",
+    taboos: ["Hayvan", "Renk", "Kertenkele", "Değişmek", "Sürüngen"],
+  },
+  {
+    target: "KONVOY",
+    taboos: ["Araba", "Gitmek", "Dizilmek", "Arka", "Düğün"],
+  },
+  {
+    target: "TAKUNYA",
+    taboos: ["Tahta", "Terlik", "Ayakkabı", "Giymek", "Hamam"],
+  },
+  {
+    target: "AKSİ",
+    taboos: ["Sinirli", "Ters", "Zıt", "Asabi", "Huysuz"],
+  },
+  {
+    target: "VEZNE",
+    taboos: ["Banka", "Para", "Ödeme", "Almak", "Muhasebe"],
+  },
+  {
+    target: "OLUK",
+    taboos: ["Akmak", "Su", "Yağmur", "Saçak", "Boru"],
+  },
+  {
+    target: "CEPHE",
+    taboos: ["Savaş", "Ordu", "Asker", "Saldırmak", "Barış"],
+  },
+  {
+    target: "ÇEVİK",
+    taboos: ["Kuvvet", "Polis", "Asker", "Güç", "Hızlı"],
+  },
+  {
+    target: "YAMAÇ",
+    taboos: ["Uçurum", "Yüksek", "Dağ", "Dik", "Paraşüt"],
+  },
+  {
+    target: "PİL",
+    taboos: ["Kalem", "İnce", "Kumanda", "El Feneri", "Fen"],
+  },
+  {
+    target: "ZİRAAT",
+    taboos: ["Tarım", "Çiftçi", "Toprak", "Hayvan", "Banka"],
+  },
+  {
+    target: "PROSPEKTÜS",
+    taboos: ["İlaç", "Eczane", "Okumak", "İçindekiler", "Kullanmak"],
+  },
 ];
