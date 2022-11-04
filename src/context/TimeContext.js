@@ -4,7 +4,7 @@ import { createContext, useState } from "react";
 const TimeConext = createContext();
 
 export const TimeProvider = ({ children }) => {
-  const [time, setTime] = useState(5);
+  const [time, setTime] = useState(90);
   const [timerOn, setTimerOn] = useState(false);
 
   const values = {

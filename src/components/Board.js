@@ -63,7 +63,7 @@ function Board({ children }) {
         setTimerOn(false);
         setCurrentScore(0);
         setPass(3);
-        setTime(5);
+        setTime(90);
       }, 1000);
     }
 
