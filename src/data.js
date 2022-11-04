@@ -532,7 +532,91 @@ export const data = [
     taboos: ["Aile", "Hatıra", "Değerli", "Miras", "Bırakmak"],
   },
   {
-    target: "Nadir",
+    target: "NADİR",
     taboos: ["Zor", "Az", "Bulmak", "Sık", "Çok"],
+  },
+  {
+    target: "ÇAVDAR",
+    taboos: ["Arpa", "Tahıl", "Buğday", "Kepek", "Ekmek"],
+  },
+  {
+    target: "BUĞU",
+    taboos: ["Buhar", "Cam", "Su", "Sıcak", "Araba"],
+  },
+  {
+    target: "PATİKA",
+    taboos: ["Keçi Yolu", "Orman", "Kestirme", "Yürümek", "Dağ"],
+  },
+  {
+    target: "VERESİYE",
+    taboos: ["Peşin", "Borç", "Satın Almak", "Ödemek", "Defter"],
+  },
+  {
+    target: "ABLUKA",
+    taboos: ["Etraf", "Kuşatma", "Savaş", "Çevirmek", "Düşman"],
+  },
+  {
+    target: "UCUZLUK",
+    taboos: ["İndirim", "Pahalı", "Yüzde", "Fiyat", "Vitrin"],
+  },
+  {
+    target: "PERFORMANS",
+    taboos: ["Değerlendirme", "Başarı", "Ders", "Ödev", "Yüksek"],
+  },
+  {
+    target: "GÜZERGÂH",
+    taboos: ["Yol", "Araba", "Rota", "Servis", "Takip Etmek"],
+  },
+  {
+    target: "PARANOYA",
+    taboos: ["Şüphe", "Akıl", "Ruh", "Hastalık", "Deli"],
+  },
+  {
+    target: "FESHETMEK",
+    taboos: ["Antlaşma", "Sözleşme", "İptal", "Geçersiz", "Bozmak"],
+  },
+  {
+    target: "ZEYBEK",
+    taboos: ["Atatürk", "Oyun", "Ege", "Efe", "Sarı"],
+  },
+  {
+    target: "YADIRGAMAK",
+    taboos: ["Garip", "Tuhaf", "Kabullenmek", "Şaşırmak", "Davranış"],
+  },
+  {
+    target: "MONOTON",
+    taboos: ["Aynı", "Sıkıcı", "Sıradan", "Benzer", "Rutin"],
+  },
+  {
+    target: "BOŞBOĞAZ",
+    taboos: ["Konuşmak", "Geveze", "Sır", "Söylemek", "Anlatmak"],
+  },
+  {
+    target: "DİYAR",
+    taboos: ["Memleket", "Vatan", "Dolaşmak", "Gezmek", "Âşık Veysel"],
+  },
+  {
+    target: "DOZ",
+    taboos: ["Miktar", "İlaç", "Doktor", "Reçete", "Aşırı"],
+  },
+  {
+    target: "PORSİYON",
+    taboos: ["Yemek", "Tabak", "Lokanta", "Yarım", "Restoran"],
+  },
+  {
+    target: "KABİN",
+    taboos: ["Giyinmek", "Duş", "Denemek", "Mağaza", "Kıyafet"],
+  },
+  {
+    target: "SERVET",
+    taboos: ["Kazanmak", "Zenginlik", "Mal", "Mülk", "Para"],
+  },
+  {
+    target: "TEDARİK",
+    taboos: ["Bulmak", "Sağlamak", "Malzeme", "Etmek", "Hazırlık"],
+  },
+  {
+    target: "TABURE",
+    taboos: ["Oturmak", "Sandalye", "Koltuk", "Yemekhane", "Sırt"],
   },
 ];
