@@ -88,7 +88,11 @@ function Board({ children }) {
       ) : null}
 
       <br />
-      <Button title="Zaman" Class="btn-time" Clicked={startTime} />
+      <Button
+        title={timerOn ? "Durdur" : "Başla"}
+        Class="btn-time"
+        Clicked={startTime}
+      />
     </div>
   );
 }
