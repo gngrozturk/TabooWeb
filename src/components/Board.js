@@ -19,6 +19,9 @@ function Board({ children }) {
     setPass,
   } = useScore();
 
+  let firstTeam = sessionStorage.getItem("firstTeam");
+  let secondTeam = sessionStorage.getItem("secondTeam");
+  
   const startTime = () => {
     setTimerOn(!timerOn);
   };
@@ -72,8 +75,8 @@ function Board({ children }) {
 
   return (
     <div>
-      <ScoreBoard text="A Takımı" score={scoreA} />
-      <ScoreBoard text="B Takımı" score={scoreB} />
+      <ScoreBoard text={firstTeam} score={scoreA} />
+      <ScoreBoard text={secondTeam} score={scoreB} />
       <ScoreBoard text="Anlık Skor" score={currentScore} />
       <ScoreBoard text="Pas Hakkı" score={pass} />
       <ScoreBoard text="Kalan Süre" Class="board-time" score={time} />

@@ -1,17 +1,11 @@
 * {
-  margin: auto 0;
+  margin: 0;
   padding: 0;
 }
 .alert {
   font-size: 2rem;
 }
-.container {
-  height: 100vh;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
+
 .scoreItem {
   display: flex;
   flex-direction: column;
@@ -92,4 +86,25 @@
 }
 .btn-time:active {
   background-color: rgb(58, 125, 250);
+}
+
+.formInput {
+  width: 100%;
+  height: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem;
+  margin: 1rem auto;
+  border-style: hidden;
+  border-radius: 8px;
+  text-align: center;
+  color: #ffffff;
+  font-size: 1.5rem;
+  font-weight: bold;
+  background-color: rgb(116, 17, 182);
+}
+
+.formInput:focus {
+  transition: 0.3s;
+  outline: none !important;
+  background-color: rgb(67, 6, 107);
 }
